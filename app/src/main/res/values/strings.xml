@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="entrar">Entrar</string>
+    <string name="email">Introduce un nombre</string>
+    <string name="password">Password</string>
+    <string name="saludo">Hola</string>
+    <string name="recordar">Recordar datos</string>
+    <string name="txtNombre">Esccibe un nombre</string>
+    <string name="Toast">Toast</string>
+    <string name="Snack">Snack</string>
+
+    <string name="text2">Notificaicón</string>
+    <string name="text3">Listado</string>
+    <string name="text4">Listado Notas</string>
+    <string name="editNotificacion">Notificación</string>
+    <string name="text1">Nombre</string>
+    <string name="editListado">Listado</string>
+    <string name="editListadoNotas">Listado de Notas</string>
+    <string name="editListados">Listados</string>
+    <string name="editListadoNotas1">Listado de Notas</string>
+    <string name="editListadoNotas2">Listado Notas</string>
+    <string name="btnNotificacion">Notificación</string>
+    <string name="btnListado">Listado</string>
+    <string name="btnListadoNotas">Listado Notas</string>
+    <string name="btnCalculadora">Calculadora</string>
+    <string name="btnWEB">WEB</string>
+    <string name="editNotas">Notas</string>>
+</resources>
